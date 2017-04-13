@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#cbe6f9"
     tools:context="rlathfdl463.kr.hs.emirim.activitytest.MainActivity">
 
     <Button
@@ -11,6 +12,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="back to the main activity"
+        android:background="#f9cbcb"
+        android:textColor="#ffffff"
         />
 
 </LinearLayout>
